@@ -1,0 +1,6 @@
+numpy
+pandas
+face-recognition
+opencv-contrib-python
+fer
+sklearn
